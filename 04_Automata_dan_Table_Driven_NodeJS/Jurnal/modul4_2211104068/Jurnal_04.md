@@ -196,4 +196,4 @@ Fungsi: File utama yang mengimpor dan menjalankan fungsi dari kodebuah.js dan po
 - Menghubungkan dan mengeksekusi fitur dari dua file lainnya. </p>
 
 **OUTPUT**
-![Image](https://github.com/user-attachments/assets/881eba90-d93c-49ff-9a2e-68488d8692c5)
+![Image](https://github.com/user-attachments/assets/16c6ee7a-34da-4dc6-9489-b9e82e6c17f6)
