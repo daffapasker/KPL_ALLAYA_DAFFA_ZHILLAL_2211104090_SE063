@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/ACER/OneDrive/Documents/kampus/SMT 6/Praktikum_KPL/KPL_Allaya Daffa Zhillal_2211104090_SE0603/04_Automata_dan_Table_Driven_NodeJS",
+      "program": "c:/Users/ACER/OneDrive/Documents/kampus/SMT 6/Praktikum_KPL/KPL_Allaya Daffa Zhillal_2211104090_SE0603/04_Automata_dan_Table_Driven_NodeJS/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
