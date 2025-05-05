@@ -158,6 +158,7 @@ module.exports = SimpleDataBase;
 ```
 
 **Output**
+![image](https://github.com/user-attachments/assets/deb18943-f12c-4c70-beea-6b2df9ada215)
 
 
 **Penjelasan**
