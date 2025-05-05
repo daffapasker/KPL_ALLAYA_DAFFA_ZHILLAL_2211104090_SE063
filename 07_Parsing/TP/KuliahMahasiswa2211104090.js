@@ -11,6 +11,7 @@ class KuliahMahasiswa2211104090 {
       console.log(`MK ${index + 1} <${mk.kode}> - <${mk.nama}>`);
     });
   }
+  
 }
 
 module.exports = KuliahMahasiswa2211104090;

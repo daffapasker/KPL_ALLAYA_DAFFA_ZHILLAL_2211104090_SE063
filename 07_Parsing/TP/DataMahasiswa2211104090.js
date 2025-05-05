@@ -12,6 +12,7 @@ class DataMahasiswa2211104090 {
       } dari fakultas ${mahasiswa.fakultas.toLowerCase()}`
     );
   }
+  
 }
 
 module.exports = DataMahasiswa2211104090;
