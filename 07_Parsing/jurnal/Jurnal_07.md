@@ -163,6 +163,6 @@ TeamMembers.ReadJSON();
 
 **Output**
 
-
+![Image](https://github.com/user-attachments/assets/d06038cb-a59f-48ab-888d-919a5bc8e848)
 
 ---

@@ -1,0 +1,16 @@
+{
+  "name": "kpl_project",
+  "version": "1.0.0",
+  "description": "Project KPL - Design Pattern Implementation",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "Daffa",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}

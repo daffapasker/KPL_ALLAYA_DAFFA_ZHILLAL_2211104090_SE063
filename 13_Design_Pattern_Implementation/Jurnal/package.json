@@ -1,0 +1,12 @@
+{
+  "name": "design-pattern-jurnal",
+  "version": "1.0.0",
+  "description": "Contoh implementasi design pattern singleton",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "author": "Daffa Zhillal",
+  "license": "ISC"
+}

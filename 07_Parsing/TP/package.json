@@ -1,0 +1,12 @@
+{
+  "name": "tp7-project",
+  "version": "1.0.0",
+  "description": "Tugas Praktikum 7 - Membaca data mahasiswa dan mata kuliah dari JSON",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Allaya Daffa Zhillal",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "jurnal7-project",
+  "version": "1.0.0",
+  "description": "Project Jurnal 7 - Membaca data mahasiswa dan anggota tim dari file JSON",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Allaya Daffa Zhillal",
+  "license": "ISC"
+}

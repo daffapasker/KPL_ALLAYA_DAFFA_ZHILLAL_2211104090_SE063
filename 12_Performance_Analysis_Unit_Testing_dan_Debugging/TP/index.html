@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>tpmodul12_2211104075</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        background-color: #f9fafb;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .container {
+        background: white;
+        padding: 2rem;
+        border-radius: 1rem;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 400px;
+      }
+
+      h2 {
+        text-align: center;
+        color: #111827;
+      }
+
+      input[type="number"] {
+        width: 100%;
+        padding: 0.75rem;
+        margin-top: 1rem;
+        border: 1px solid #d1d5db;
+        border-radius: 0.5rem;
+        font-size: 1rem;
+      }
+
+      button {
+        width: 100%;
+        margin-top: 1rem;
+        padding: 0.75rem;
+        background-color: #2563eb;
+        color: white;
+        font-weight: bold;
+        border: none;
+        border-radius: 0.5rem;
+        cursor: pointer;
+      }
+
+      #output {
+        margin-top: 1rem;
+        font-size: 1.1rem;
+        text-align: center;
+        color: #374151;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Deteksi Tanda Bilangan</h2>
+      <input type="number" id="inputA" placeholder="Masukkan bilangan" />
+      <button onclick="cekTanda()">Cek Tanda</button>
+      <div id="output">Output:</div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
